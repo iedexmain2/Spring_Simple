@@ -1,5 +1,5 @@
 <!***>
-,!++++>
+<!++++>
 <%
    response.sendRedirect("spring/hello");
 %>
